@@ -1,6 +1,6 @@
-def square_array(array)
+def square_array(array,elemet)
   # your code here
   array.each do
-    Math.sqrt(array)
+    Math.sqrt(elemet)
   end
 end
